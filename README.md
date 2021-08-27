@@ -7,8 +7,11 @@ This repository contains a grate movie app, in this app you can:
 * Get information about a movies and actors 
 * See image of cast and movies
 
+![alt text](https://i.ibb.co/c686TTb/Cast.png "Cast")
+
 ## About stack
 This is app, using Larvel 8, Tailwindcss, Tailwindcss-spinner, livewire and API TMDB from 'https://www.themoviedb.org' and it's free API.
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
