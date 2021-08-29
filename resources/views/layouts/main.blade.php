@@ -8,6 +8,7 @@
 
     <link rel="stylesheet" href="{{ asset('/css/app.css')}}">
     <livewire:styles>
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body class="font-sans bg-gray-900 text-white">
     <nav class="border-b border-gray-800">
